@@ -1,5 +1,4 @@
 import {BrowserRouter, Route, Routes,} from 'react-router-dom';
-
 import Index from './pages';
 import Create from './pages/create';
 import View from './pages/view';
